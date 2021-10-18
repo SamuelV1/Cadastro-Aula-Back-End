@@ -1,2 +1,3 @@
-# Cadastro-Aula-Back-End
-node.js using express 
+# EU USEI YARN
+
+pra rodar o servidor use npx dev
